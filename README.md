@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working as Frontend Developer<br>🌿 I'm currently learning React JS<br>💬 Ask me about anything you want ask<br>💡 Some fact: With all the things that I've experienced and that happened, I'm very grateful for that
+💻 I'm currently working as Frontend Developer<br>🌿 I'm currently learning React JS<br>💬 Ask me about <bold>Codeigniter and some php's things</bold><br>💡 Some fact: With all the things that I've experienced and that happened, I'm very grateful for that
 
 
 ## 🌐 Socials:
