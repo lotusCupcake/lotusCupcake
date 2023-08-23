@@ -13,7 +13,8 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lotusCupcake&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lotusCupcake&theme=react&hide_border=true) ![](https://github-readme-stats.vercel.app/api?username=lotusCupcake&theme=react&hide_border=true&include_all_commits=true&count_private=true) 
+![](https://github-readme-stats.vercel.app/api?username=lotusCupcake&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lotusCupcake&theme=react&hide_border=true) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lotusCupcake&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
