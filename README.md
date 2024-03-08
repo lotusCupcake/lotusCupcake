@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-💻 I'm currently working as **Frontend Developer**<br>🌿 I'm currently learning React JS<br>💬 Ask me about **Codeigniter and some php's things**<br>💡 Some fact: With all the things that I've experienced and that happened, I'm very grateful for that<br>📩 Contact me via **fikriansari.mfa@gmail.com**
+💻 I'm currently working as **Web Developer**<br>🌿 I'm currently learning React JS<br>💬 Ask me about **Codeigniter and some php's things**<br>💡 Some fact: With all the things that I've experienced and that happened, I'm very grateful for that<br>📩 Contact me via **fikriansari.mfa@gmail.com**
 
 
 ## 🌐 Socials:
